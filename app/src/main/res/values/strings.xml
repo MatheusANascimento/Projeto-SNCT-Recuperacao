@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProjetoRecu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nome_avaliador">Nome do Avaliador</string>
+    <string name="titulo_trabalho">Titulo do trabalho</string>
+    <string name="nota">Nota</string>
+    <string name="comentarios">Comentários</string>
+    <string name="avaliar">Avaliar</string>
+    <string name="action_settings">Settings</string>
+    <string name="contar_avaliar">Contar Avaliações</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="splash">Septem Team S.A.</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_projeto_dao">ProjetoDAO</string>
+
+</resources>
